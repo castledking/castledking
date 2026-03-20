@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://survivalfun.net">SurvivalFun</a> •
-  <a href="https://castled.codes">castled.codes</a> •
+  <a href="https://castled.codes">castled.codes</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 
 - Owner of [survivalfun.net](https://survivalfun.net)
 - Lead developer at [castled.codes](https://castled.codes)
-- Working across Minecraft plugins/mods, infra, automation, and full-stack projects
+- Working across Minecraft plugins, mods, infrastructure, automation, and full-stack projects
 - Interested in performant systems, maintainable architecture, and clean developer workflows
 
 ## Current Focus
@@ -69,12 +69,14 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
   <img src="https://nirzak-streak-stats.vercel.app/?user=castledking&theme=transparent&hide_border=true" height="160" />
 </p>
 
-## Activity
+## Featured Projects
+
+- [Allium](https://github.com/castledking/Allium)
+- [Axion](https://github.com/castledking/Axion)
+- [GriefPrevention3D](https://github.com/castledking/GriefPrevention3D)
+- [GPExpansion](https://github.com/castledking/GPExpansion)
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/castledking/castledking/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=castledking.castledking" alt="Visitor badge" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=CASTLED%20CODEX&fontSize=59&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling&desc=Modern%20software%20solutions&descSize=20&descAlign=50&descAlignY=89&color=gradient" alt="Footer banner" />
 </p>
