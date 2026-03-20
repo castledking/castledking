@@ -78,5 +78,5 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=CASTLED%20CODEX&fontSize=59&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling&desc=Modern%20software%20solutions&descSize=20&descAlign=50&descAlignY=89&color=gradient" alt="Footer banner" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=CASTLED%20CODEX&fontSize=59&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=Modern,%20sleek%20software%20solutions&descSize=20&descAlign=50&descAlignY=89&textBg=false&color=gradient"  />
 </p>
