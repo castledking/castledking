@@ -30,18 +30,18 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 ## Tech I Use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="36" alt="Gradle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" />
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="36" alt="Gradle" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" /></a>
 </p>
 
 ## Connect
@@ -61,12 +61,18 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=castledking&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castledking&layout=compact&theme=transparent&hide_border=true" height="160" />
+  <a href="https://castled.codes">
+    <img src="https://github-readme-stats.vercel.app/api?username=castledking&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  </a>
+  <a href="https://castled.codes">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castledking&layout=compact&theme=transparent&hide_border=true" height="160" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=castledking&theme=transparent&hide_border=true" height="160" />
+  <a href="https://castled.codes">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=castledking&theme=transparent&hide_border=true" height="160" />
+  </a>
 </p>
 
 ## Featured Projects
