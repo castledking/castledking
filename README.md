@@ -25,7 +25,7 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 - Kotlin and Java backend development
 - Dev tooling and automation
 - Web platforms and internal systems
-- Rust for performance-sensitive tooling
+- Rust for my full stack apps like [PandoraLauncher](https://github.com/castledking/PandoraLauncher-Enhanced)
 
 ## Tech I Use
 
