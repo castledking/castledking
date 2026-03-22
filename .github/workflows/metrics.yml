@@ -13,25 +13,24 @@ jobs:
     permissions:
       contents: write
     steps:
-    - name: Metrics embed
+    - name: Main metrics
       uses: lowlighter/metrics@v3.34
       with:
-        filename: github-metrics.svg
+        filename: github-metrics-main.svg
         token: ${{ secrets.METRICS_TOKEN }}
         user: castledking
         template: classic
         base: header, activity, community, repositories, metadata
-        config_timezone: America/Los_Angeles
-    
-        plugin_isocalendar: yes
         plugin_languages: yes
-        plugin_languages_limit: 8
-        plugin_languages_sections: most-used
-    
         plugin_repositories: yes
-        plugin_repositories_featured: castledking/Axion,castledking/Allium,castledking/GriefPrevention3D,castledking/GPExpansion,castledking/PandoraLauncher-Enhanced
-    
         plugin_stars: yes
-        plugin_followup: yes
         plugin_topics: yes
-        plugin_topics_limit: 12
+    
+    - name: Calendar metrics
+      uses: lowlighter/metrics@v3.34
+      with:
+        filename: github-metrics-calendar.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: castledking
+        base: ""
+        plugin_isocalendar: yes
