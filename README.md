@@ -61,11 +61,7 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/castledking/castledking/main/github-metrics-main.svg" />
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/castledking/castledking/main/github-metrics-calendar.svg" />
+  <img src="https://raw.githubusercontent.com/castledking/castledking/main/github-metrics.svg" />
 </p>
 
 <p align="center">
