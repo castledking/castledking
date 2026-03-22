@@ -59,20 +59,10 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 </p>
 
 ## GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <a href="https://castled.codes">
-    <img src="https://github-readme-stats.vercel.app/api?username=castledking&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  </a>
-  <a href="https://castled.codes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castledking&layout=compact&theme=transparent&hide_border=true" height="160" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://castled.codes">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=castledking&theme=transparent&hide_border=true" height="160" />
-  </a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/castledking/castledking/main/github-metrics.svg" />
 </p>
 
 ## Featured Projects
