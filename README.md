@@ -64,14 +64,6 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
   <img src="https://raw.githubusercontent.com/castledking/castledking/main/github-metrics.svg" />
 </p>
 
-## Featured Projects
-
-- [Allium](https://github.com/castledking/Allium)
-- [Axion](https://github.com/castledking/Axion)
-- [GriefPrevention3D](https://github.com/castledking/GriefPrevention3D)
-- [GPExpansion](https://github.com/castledking/GPExpansion)
-
-
 <p align="center">
   <a href="https://castled.codes">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=CASTLED%20CODEX&fontSize=59&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=Modern,%20sleek%20software%20solutions&descSize=20&descAlign=50&descAlignY=89&textBg=false&color=gradient" alt="CASTLED CODEX" />
