@@ -42,6 +42,8 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
   <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" /></a>
   <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" /></a>
   <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="36" alt="PHP" /></a>
+  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" /></a>
 </p>
 
 ## Connect
