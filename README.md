@@ -27,23 +27,15 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 - Web platforms and internal systems
 - Rust for my full stack apps like [PandoraLauncher](https://github.com/castledking/PandoraLauncher-Enhanced)
 
-## Tech I Use
+## Tech Stack
 
-<p align="left">
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="36" alt="Gradle" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="36" alt="PHP" /></a>
-  <a href="https://castled.codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=java,kotlin,gradle,py,nodejs,rust,html,css,redis,mysql,nginx,bash,php,ts&perline=16"
+      alt="Tech stack icons"
+    />
+  </a>
 </p>
 
 ## Connect
