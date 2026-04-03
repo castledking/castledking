@@ -47,7 +47,7 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
   <a href="mailto:thecastledking@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.youtube.com/channel/UCIEF4iVUKsURxVuON59-Nzg">
+  <a href="https://www.youtube.com/@castledcodes">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
