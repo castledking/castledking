@@ -1680,7 +1680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BookStackApp/BookStack</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A platform to create documentation/wiki content built with PHP &amp; Laravel</div>
@@ -1834,7 +1834,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oraxen/oraxen</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Oraxen is a minecraft plugin that allows to easily use Minecraft 1.14 features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) and has an extensible API.</div>
@@ -1884,7 +1884,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2026, 23:21:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2026, 05:05:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
