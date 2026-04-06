@@ -26,13 +26,14 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 - Dev tooling and automation
 - Web platforms and internal systems
 - Rust for my full stack apps like [PandoraLauncher](https://github.com/castledking/PandoraLauncher-Enhanced)
+- Go for my in-terminal, VS Code-like editor [rift](https://github.com/castledking/rift)
 
 ## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,kotlin,gradle,py,nodejs,rust,html,css,redis,mysql,nginx,bash,php,ts&perline=16"
+      src="https://skillicons.dev/icons?i=java,kotlin,gradle,py,nodejs,rust,html,css,redis,mysql,nginx,bash,php,ts,go&perline=16"
       alt="Tech stack icons"
     />
   </a>
