@@ -33,7 +33,7 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,kotlin,gradle,py,nodejs,rust,html,css,redis,mysql,nginx,bash,php,ts,go&perline=16"
+      src="https://skillicons.dev/icons?i=java,kotlin,gradle,py,nodejs,rust,html,css,redis,mysql,nginx,bash,php,ts,go,docker&perline=16"
       alt="Tech stack icons"
     />
   </a>
