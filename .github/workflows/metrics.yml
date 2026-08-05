@@ -22,17 +22,54 @@ jobs:
         template: classic
         base: header, activity, community, repositories, metadata
         config_timezone: America/Los_Angeles
-    
+
         plugin_repositories: yes
         plugin_repositories_featured: castledking/Axion,castledking/Allium,castledking/GriefPrevention3D,castledking/GPExpansion,castledking/PandoraLauncher-Enhanced
-    
+
         plugin_isocalendar: yes
-    
+
         plugin_languages: yes
         plugin_languages_limit: 8
         plugin_languages_sections: most-used
-    
+
         plugin_stars: yes
         plugin_followup: yes
         plugin_topics: yes
         plugin_topics_limit: 12
+
+    # Rendered independently of the step above so one card failing can never
+    # silently freeze the others (see git history: this file was orphaned in
+    # March 2026 and kept serving a stale avatar for months).
+    - name: Main metrics
+      if: ${{ !cancelled() }}
+      uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+      with:
+        filename: github-metrics-main.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: castledking
+        template: classic
+        base: header, activity, community, repositories, metadata
+        config_timezone: America/Los_Angeles
+
+        plugin_repositories: yes
+        plugin_repositories_featured: castledking/Axion,castledking/Allium,castledking/GriefPrevention3D,castledking/GPExpansion,castledking/PandoraLauncher-Enhanced
+
+        plugin_languages: yes
+        plugin_languages_limit: 8
+        plugin_languages_sections: most-used
+
+        plugin_stars: yes
+        plugin_topics: yes
+        plugin_topics_limit: 12
+
+    - name: Calendar metrics
+      if: ${{ !cancelled() }}
+      uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+      with:
+        filename: github-metrics-calendar.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: castledking
+        base: ""
+        config_timezone: America/Los_Angeles
+
+        plugin_isocalendar: yes
