@@ -42,7 +42,7 @@ I’m Jack, a developer focused on game-adjacent systems, backend engineering, a
 ## Connect
 
 <p align="left">
-  <a href="https://discord.com/invite/pCKdCX6nYr">
+  <a href="https://discord.gg/D6CeVTtJpF">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:thecastledking@gmail.com">
